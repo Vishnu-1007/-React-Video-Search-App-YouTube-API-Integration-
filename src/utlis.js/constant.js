@@ -6,7 +6,7 @@
 
 export const PROFILE_IMAGE = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR77ud8U8Yfk1uTWeOacvPIyCMGNqSxJiIHQ&s"
 
-const GOOGLE_API_KEY = "AIzaSyDYDvCVUTg0S-e9mFnxTZ0f_SJ3tEtfc-A"
+const GOOGLE_API_KEY = "get_your_api_key"
 
 export const LIVE_CHAT_COUNT = 10
 
